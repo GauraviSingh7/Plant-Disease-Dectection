@@ -36,7 +36,13 @@ cd your-repo-name
 If you haven’t already, install the necessary Python packages by running:
 ```bash
 pip install -r requirements.txt
+```
+### 3. Run the Streamlit App
+To start the Streamlit app, run the following command:
 ```bash
+streamlit run main.py
+```
+
 
 
 
