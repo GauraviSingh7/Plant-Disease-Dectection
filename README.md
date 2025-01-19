@@ -34,7 +34,9 @@ cd your-repo-name
 ### 2. Install the required dependencies:
 
 If you haven’t already, install the necessary Python packages by running:
+```bash
 pip install -r requirements.txt
+```bash
 
 
 
