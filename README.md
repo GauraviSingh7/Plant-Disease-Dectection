@@ -22,8 +22,19 @@ The Plant Disease Detection project utilizes Convolutional Neural Networks (CNN)
 - keras
 - opencv_python_headless
 
-## Upcoming Flask App
-Planning to develop a Flask-based web application to deploy the Plant Disease Detection model. The app will allow users to upload leaf images, process them using the trained model, and receive predictions on whether the plant is healthy or diseased.
+## 🚀 Running the Streamlit App
+
+To run the Streamlit app from this repository, follow these steps:
+
+### 1. Clone the repository:
+
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+### 2. Install the required dependencies:
+
+If you haven’t already, install the necessary Python packages by running:
+pip install -r requirements.txt
 
 
 
