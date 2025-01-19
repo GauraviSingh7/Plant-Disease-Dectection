@@ -29,7 +29,9 @@ To run the Streamlit app from this repository, follow these steps:
 ### 1. Clone the repository:
 
 git clone https://github.com/your-username/your-repo-name.git
+```bash
 cd your-repo-name
+```
 
 ### 2. Install the required dependencies:
 
@@ -42,6 +44,20 @@ To start the Streamlit app, run the following command:
 ```bash
 streamlit run main.py
 ```
+### 4. Open app in browser
+Once the app is running, open your browser and go to:
+```bash
+http://localhost:8501
+```
+Now, you should be able to interact with the Streamlit app!
+
+
+
+
+
+
+
+
 
 
 
